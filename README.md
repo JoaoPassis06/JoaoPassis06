@@ -1,6 +1,6 @@
 # Olá, eu sou o João Pedro! 👋
 
-Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** em transição de carreira para a área de Tecnologia. Atualmente, trabalho como Oficial de Manutenção, o que me deu uma base sólida em resolução de problemas e processos técnicos, competências que agora aplico no desenvolvimento de software.
+Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**
 
 ### 🛠 Tecnologias e Ferramentas:
 
