@@ -7,16 +7,14 @@
 
 <h3> 🛠 Tecnologias e Ferramentas:</h3>
 
-<h4 align="center">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="25" alt="Ícone de Front-end" />
-  <b>&nbsp; Front-end</b>
+<h4>
+  🌐 Front-end
 </h4>
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<h4 align="center">
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="25" alt="Ícone de Banco de Dados" />
-  <b>&nbsp; Banco de Dados</b>
+<h4>
+  🗄️ Banco de Dados
 </h4>
 
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
