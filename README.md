@@ -7,24 +7,39 @@
   <br/>
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🌐 Tecnologias e Ferramentas
 
-#### 🌐 Front-end
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+**Linguagens e Front-end**
+<br/>
+<img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="HTML5" /> &nbsp;
+<img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="CSS3" /> &nbsp;
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="JavaScript" /> &nbsp;
+<img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="React Native" />
 
-#### 🗄️ Banco de Dados
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+<br/><br/>
 
-#### 🔧 Ferramentas
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+**Banco de Dados**
+<br/>
+<img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="MySQL" /> &nbsp;
+<img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="30" alt="SQL Server" />
+
+<br/><br/>
+
+**Ferramentas e Outros**
+<br/>
+<img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="Git" /> &nbsp;
+<img src="https://cdn.simpleicons.org/visualstudiocode/0078d7" height="30" alt="VS Code" /> &nbsp;
+<img src="https://cdn.simpleicons.org/arduino/00979D" height="30" alt="Arduino" /> &nbsp;
+<img src="https://cdn.simpleicons.org/trello/026AA7" height="30" alt="Trello" />
 
 ---
 
 ### 📫 Como me encontrar:
 
 <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-assis-9a5b69335/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://cdn.simpleicons.org/linkedin/0077B5" height="35" alt="LinkedIn" />
 </a>
+&nbsp;
 <a href="mailto:joaopedro.assiis@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <img src="https://cdn.simpleicons.org/gmail/D14836" height="35" alt="Gmail" />
 </a>
