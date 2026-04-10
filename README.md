@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://i.imgur.com/uG9Tq4c.png" width="100%" alt="Banner decorativo" />
 <h1>João Pedro</h1>
+  <p>Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**</p>
 </div>
 
-Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**
+
 
 <h2> 🛠 Tecnologias e Ferramentas:</h2>
 
@@ -14,10 +14,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**
 <h3> 🗄️ Banco De Dados</h2>
 
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-<p align="right">
-  <img src="https://i.imgur.com/uG9Tq4c.png" width="300" alt="Ilustração de Programação" />
-</p>
 
 <h3> 🔧 Ferramentas</h3>
 
