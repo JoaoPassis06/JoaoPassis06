@@ -17,7 +17,7 @@
 
 
 <h4> 🔧 Ferramentas</h4>
-<br/>
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion,arduino" height="38"/>
 
 ---
