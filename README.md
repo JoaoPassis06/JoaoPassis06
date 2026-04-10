@@ -2,7 +2,7 @@
 
 ---
 
-### 🌐 Tecnologias e Ferramentas
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=🛠-Tecnologias-e-Ferramentas:)](https://git.io/typing-svg)
 
 <h4>
   🌐 Front-end
@@ -16,7 +16,8 @@
   🗄️ Banco de Dados
 </h4>
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,sqlserver" height="38"/>
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
 
 <br/><br/>
 
