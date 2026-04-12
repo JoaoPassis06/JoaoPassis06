@@ -21,7 +21,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,figma,notion" height="38"/>
 
 ---
-<h3 align="center" color= "#E668EC">⚡Meu Fluxo de Commits</h3>
+<h3 align="center"><span style="color: #E668EC;">⚡ Meu Fluxo de Commits</span></h3>
 
 ![Atividades do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=JoaoPassis06&hide_title=true&bg_color=0D1117&point=FFFFFF&days=30&area=true&area_color=70E6D8&line=70E6D8&hide_border=true&color=C9D1D9)
 
