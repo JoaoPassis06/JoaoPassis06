@@ -21,7 +21,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,figma,notion" height="38"/>
 
 ---
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoaoPassis06&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoaoPassis06&theme=react-dark&custom_title=Minhas%20Estatisticas_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 📫 Como me encontrar:
 
