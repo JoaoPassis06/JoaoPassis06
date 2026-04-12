@@ -2,7 +2,7 @@
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ECB1F7&width=435&lines=%F0%9F%9B%A0+Tecnologias+e+Ferramentas%3A)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=0.6&color=ECB1F7&width=435&lines=%F0%9F%9B%A0+Tecnologias+e+Ferramentas%3A)
 <h4>
   🌐 Front-end
 </h4>
