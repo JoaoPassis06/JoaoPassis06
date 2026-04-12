@@ -22,7 +22,7 @@
 
 ---
 
-![Atividades do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=JoaoPassis06&bg_color=0D1117&custom_title=⚡&20Meu%20Fluxo20%de&20Commits&title_color=E668EC&point=FFFFFF&days=30&area=true&area_color=70E6D8&line=70E6D8&hide_border=true&color=C9D1D9&)
+![Atividades do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=JoaoPassis06&bg_color=0D1117&custom_title=Meu%20Fluxo20%de&20Commits&title_color=E668EC&point=FFFFFF&days=30&area=true&area_color=70E6D8&line=70E6D8&hide_border=true&color=C9D1D9&)
 
 
 ### 📫 Como me encontrar:
