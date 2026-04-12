@@ -33,11 +33,12 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-assis-9a5b69335/)    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedro.assiis@gmail.com)    <a href="https://wa.me/11913368407">
 <img src="https://img.shields.io/badge/WhatsApp-32CD32?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
+  
   ---
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mayccoll/Gifs/master/Themes/Idea/Idea.gif" width="30px">
   <b>"O sucesso é a soma de pequenos esforços repetidos dia após dia."</b>
 </p>
 
-![Footer](./banner_fim.png)
+![Footer](./banner_fim1.png)
 
