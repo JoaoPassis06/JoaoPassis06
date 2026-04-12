@@ -2,7 +2,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ECB1F7&width=435&lines=%F0%9F%9B%A0+Tecnologias+e+Ferramentas%3A)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ECB1F7&width=435&lines=%F0%9F%9B%A0+Tecnologias+e+Ferramentas%3A)
 <h4>
   🌐 Front-end
 </h4>
@@ -39,8 +39,5 @@
   <b>"O sucesso é a soma de pequenos esforços repetidos dia após dia."</b>
 </p>
 
-<div align="center">
-  <a href="seu-link-do-linkedin">
-    <img src="https://img.shields.io/static/v1?label=ADvancing&message=CAREER&color=E668EC&style=flat-square" alt="Status">
-  </a>
-</div>
+![Footer](./banner_fim.png)
+
