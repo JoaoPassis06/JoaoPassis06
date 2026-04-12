@@ -21,7 +21,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,figma,notion" height="38"/>
 
 ---
-![Atividades do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=JoaoPassis06&bg_color=0D1117&custom_title=Minhas%20Atividades%20No%20GitHub&title_color=E668EC&point=FFFFFF&days=30&area=true&area_color=70E6D8&line=70E6D8&hide_border=true&grid_color=30363D&color=FFFFFF)
+![Atividades do GitHub]([https://github-readme-activity-graph.vercel.app/graph?username=JoaoPassis06&bg_color=0D1117&custom_title=Minhas%20Atividades%20No%20GitHub&title_color=E668EC&point=FFFFFF&days=30&area=true&area_color=70E6D8&line=70E6D8&hide_border=true&grid_color=30363D&color=FFFFFF](https://github-readme-activity-graph.vercel.app/graph?username=JoaoPassis06&bg_color=0D1117&custom_title=Fullstack%20Development%20Flow&title_color=E668EC&point=FFFFFF&days=30&area=true&area_color=70E6D8&line=70E6D8&hide_border=true&grid_color=30363D&color=FFFFFF&y_axis_title=%20&x_axis_title=%20))
 
 ### 📫 Como me encontrar:
 
