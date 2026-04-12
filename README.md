@@ -35,10 +35,6 @@
   </a>
   
   ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mayccoll/Gifs/master/Themes/Idea/Idea.gif" width="30px">
-  <b>"O sucesso é a soma de pequenos esforços repetidos dia após dia."</b>
-</p>
 
 ![Footer](./banner_fim1.png)
 
