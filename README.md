@@ -21,7 +21,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,figma,notion" height="38"/>
 
 ---
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoaoPassis06&bg_color=0D1117&custom_title=Minhas%20Atividades%20No%20GitHub&title_color=30363D&from=2025-11-01&hide_border=true&point=E668EC&days=30&area=EAE6CA&line=70E6D8)
+![Atividades do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=JoaoPassis06&bg_color=0D1117&custom_title=Minhas%20Atividades%20No%20GitHub&title_color=E668EC&point=FFFFFF&days=30&area=true&area_color=70E6D8&line=70E6D8&hide_border=true&grid_color=30363D&color=FFFFFF)
 
 ### 📫 Como me encontrar:
 
