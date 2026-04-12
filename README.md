@@ -23,7 +23,9 @@
 ---
 <div align="center">
 ## ⚡ Meu Fluxo de Commits
-![Atividades do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=JoaoPassis06&bg_color=0D1117&custom_title=Ritmo%20De%20Código&title_color=E668EC&point=FFFFFF&days=30&area=true&area_color=70E6D8&line=70E6D8&hide_border=true&color=C9D1D9&hide_title=true)</div>
+  
+![Atividades do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=JoaoPassis06&bg_color=0D1117&custom_title=Ritmo%20De%20Código&title_color=E668EC&point=FFFFFF&days=30&area=true&area_color=70E6D8&line=70E6D8&hide_border=true&color=C9D1D9&hide_title=true)
+</div>
 
 ### 📫 Como me encontrar:
 
