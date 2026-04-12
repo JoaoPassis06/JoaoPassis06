@@ -21,7 +21,9 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,figma,notion" height="38"/>
 
 ---
-<h3 align="center"><span style="color: #E668EC;">⚡ Meu Fluxo de Commits</span></h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E668EC&center=true&vCenter=true&width=435&lines=%E2%9A%A1+Meu+Fluxo+de+Commits" alt="Typing SVG" />
+</p>
 
 ![Atividades do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=JoaoPassis06&hide_title=true&bg_color=0D1117&point=FFFFFF&days=30&area=true&area_color=70E6D8&line=70E6D8&hide_border=true&color=C9D1D9)
 
