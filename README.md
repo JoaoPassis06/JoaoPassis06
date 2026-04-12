@@ -2,7 +2,7 @@
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=0.6&color=ECB1F7&width=435&lines=%F0%9F%9B%A0+Tecnologias+e+Ferramentas%3A)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=0.8&color=ECB1F7&width=435&lines=%F0%9F%9B%A0+Tecnologias+e+Ferramentas%3A)
 <h4>
   🌐 Front-end
 </h4>
@@ -22,7 +22,7 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=0.6&color=E668EC&center=true&vCenter=true&width=435&lines=%E2%9A%A1+Meu+Fluxo+de+Commits" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=0.8&color=E668EC&center=true&vCenter=true&width=435&lines=%E2%9A%A1+Meu+Fluxo+de+Commits" alt="Typing SVG" />
 </p>
 
 ![Atividades do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=JoaoPassis06&hide_title=true&bg_color=0D1117&point=FFFFFF&days=30&area=true&area_color=70E6D8&line=70E6D8&hide_border=true&color=C9D1D9)
