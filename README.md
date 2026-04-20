@@ -27,7 +27,9 @@
 
 ![Commits](https://github-readme-activity-graph.vercel.app/graph?username=JoaoPassis06&hide_title=true&bg_color=0D1117&point=FFFFFF&days=30&area=true&area_color=70E6D8&line=70E6D8&hide_border=true&color=C9D1D9)
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPassis06&layout=compact&bg_color=0D1117&title_color=70E6D8&text_color=C9D1D9&color_weight=70E6D8&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPassis06&layout=compact&bg_color=0D1117&title_color=70E6D8&text_color=C9D1D9&color_weight=70E6D8&hide_border=true&hide_title=false" width="60%" />
+</p>
 
 
 ### 📫 Como me encontrar:
