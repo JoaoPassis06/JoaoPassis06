@@ -21,19 +21,21 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,arduino,figma,notion" height="38"/>
 
 ---
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=24&pause=0.8&color=ECB1F7&center=true&vCenter=true&width=435&lines=%E2%9A%A1+Meu+Fluxo+de+Commits" alt="Typing SVG" />
-</p>
+<table border="0">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=20&pause=0.8&color=ECB1F7&center=true&vCenter=true&width=400&lines=%E2%9A%A1+Meu+Fluxo+de+Commits" />
+      <br/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoPassis06&hide_title=true&bg_color=0D1117&point=FFFFFF&days=30&area=true&area_color=70E6D8&line=70E6D8&hide_border=true&color=C9D1D9" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=20&pause=0.8&color=ECB1F7&center=true&vCenter=true&width=400&lines=%F0%9F%92%BB+Linguagens+e+Tecnologias" />
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPassis06&layout=compact&bg_color=0D1117&title_color=70E6D8&text_color=C9D1D9&color_weight=70E6D8&hide_border=true&hide_title=true" width="100%" />
+    </td>
+  </tr>
+</table>
 
-![Atividades do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=JoaoPassis06&hide_title=true&bg_color=0D1117&point=FFFFFF&days=30&area=true&area_color=70E6D8&line=70E6D8&hide_border=true&color=C9D1D9)
-
-<br/>
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=24&pause=0.8&color=ECB1F7&center=true&vCenter=true&width=435&lines=%F0%9F%92%BB+Linguagens+e+Tecnologias" alt="Typing SVG" />
-</p>
-
-![Minhas Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPassis06&layout=compact&bg_color=0D1117&title_color=70E6D8&text_color=C9D1D9&color_weight=70E6D8&hide_border=true&hide_title=true)
 ### 📫 Como me encontrar:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-assis-9a5b69335/)    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedro.assiis@gmail.com)    <a href="https://wa.me/11913368407">
