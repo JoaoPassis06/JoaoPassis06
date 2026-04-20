@@ -13,7 +13,7 @@
   🗄️ Banco de Dados
 </h4>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  <img src="https://img.shields.io/badge/SSIS-5960BA?style=for-the-badge&logo=microsoft&logoColor=white" />
 
 
 <h4> 🔧 Ferramentas</h4>
