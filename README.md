@@ -21,10 +21,15 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,arduino,figma,notion" height="38"/>
 
 ---
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPassis06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPassis06&layout=compact&theme=tokyonight"/>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=24&pause=0.8&color=ECB1F7&center=true&vCenter=true&width=435&lines=%E2%9A%A1+Meu+Fluxo+de+Commits" alt="Typing SVG" />
+</p>
+
+![Commits](https://github-readme-activity-graph.vercel.app/graph?username=JoaoPassis06&hide_title=true&bg_color=0D1117&point=FFFFFF&days=30&area=true&area_color=70E6D8&line=70E6D8&hide_border=true&color=C9D1D9)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPassis06&layout=compact&bg_color=0D1117&title_color=70E6D8&text_color=C9D1D9&color_weight=70E6D8&hide_border=true&hide_title=false" width="50%" />
+</p>
 
 ### 📫 Como me encontrar:
 
