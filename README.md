@@ -23,15 +23,15 @@
 ---
 <table border="0">
   <tr>
-    <td align="center" width="50%" height="250px">
+    <td align="center" width="50%">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=17&pause=0.8&color=ECB1F7&center=true&vCenter=true&width=350&lines=%E2%9A%A1+Meu+Fluxo+de+Commits" />
       <br/>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoPassis06&hide_title=true&bg_color=0D1117&point=FFFFFF&days=30&area=true&area_color=70E6D8&line=70E6D8&hide_border=true&color=C9D1D9" height="250px"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoPassis06&hide_title=true&bg_color=0D1117&point=FFFFFF&days=30&area=true&area_color=70E6D8&line=70E6D8&hide_border=true&color=C9D1D9"/>
     </td>
-    <td align="center" width="50%" height="250px">
+    <td align="center" width="50%">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=17&pause=0.8&color=ECB1F7&center=true&vCenter=true&width=350&lines=%F0%9F%92%BB+Linguagens+e+Tecnologias" />
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPassis06&layout=compact&bg_color=0D1117&title_color=70E6D8&text_color=C9D1D9&color_weight=70E6D8&hide_border=true&hide_title=true" width="100%" height="250px"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPassis06&layout=compact&bg_color=0D1117&title_color=70E6D8&text_color=C9D1D9&color_weight=70E6D8&hide_border=true&hide_title=true" width="100%"/>
     </td>
   </tr>
 </table>
