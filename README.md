@@ -26,7 +26,7 @@
     <td align="center" width="50%">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=17&pause=0.8&color=ECB1F7&center=true&vCenter=true&width=350&lines=%E2%9A%A1+Meu+Fluxo+de+Commits" />
       <br/>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoPassis06&hide_title=true&bg_color=0D1117&point=FFFFFF&days=20&area=true&area_color=70E6D8&line=70E6D8&hide_border=true&color=C9D1D9" width="300px" height="140px"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoPassis06&hide_title=true&bg_color=0D1117&point=FFFFFF&days=20&area=true&area_color=70E6D8&line=70E6D8&hide_border=true&color=C9D1D9" width="300px" height="180px"/>
     </td>
     <td align="center" width="50%">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=17&pause=0.8&color=ECB1F7&center=true&vCenter=true&width=350&lines=%F0%9F%92%BB+Linguagens+e+Tecnologias" />
