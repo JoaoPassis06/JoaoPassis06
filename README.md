@@ -41,7 +41,8 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoPassis06&hide_title=true&bg_color=0D1117&point=FFFFFF&days=20&area=true&area_color=70E6D8&line=70E6D8&hide_border=true&color=C9D1D9" width="90%">
       </picture>
       <br/>
-      <p> &nbsp; </p>
+      <br/>
+      <p> &nbsp;</p>
     </td>
 
   <td align="center" width="50%" valign="bottom">
