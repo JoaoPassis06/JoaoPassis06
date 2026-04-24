@@ -38,8 +38,9 @@
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=JoaoPassis06&hide_title=true&bg_color=0D1117&point=FFFFFF&days=20&area=true&area_color=70E6D8&line=70E6D8&hide_border=true&color=C9D1D9">
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=JoaoPassis06&hide_title=true&bg_color=ffffff&point=0D1117&days=20&area=true&area_color=008B8B&line=008B8B&hide_border=true&color=333333">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoPassis06&hide_title=true&bg_color=0D1117&point=FFFFFF&days=20&area=true&area_color=70E6D8&line=70E6D8&hide_border=true&color=C9D1D9" width="90%" margin-bottom="20px">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoPassis06&hide_title=true&bg_color=0D1117&point=FFFFFF&days=20&area=true&area_color=70E6D8&line=70E6D8&hide_border=true&color=C9D1D9" width="90%">
       </picture>
+      <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/transparent.png" height="25px">
     </td>
 
   <td align="center" width="50%" valign="bottom">
