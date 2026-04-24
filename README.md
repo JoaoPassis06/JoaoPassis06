@@ -2,7 +2,12 @@
 
 ---
 
-![Tecnologia e Ferramenta](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=0.8&color=ECB1F7&width=435&size=19&lines=%F0%9F%9B%A0+Tecnologias+e+Ferramentas%3A)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=0.8&color=ECB1F7&width=435&size=19&lines=%F0%9F%9B%A0+Tecnologias+e+Ferramentas%3A">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=0.8&color=B359BD&width=435&size=19&lines=%F0%9F%9B%A0+Tecnologias+e+Ferramentas%3A">
+  <img alt="Tecnologias e Ferramentas" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=0.8&color=ECB1F7&width=435&size=19&lines=%F0%9F%9B%A0+Tecnologias+e+Ferramentas%3A">
+</picture>
+
 <h4>
   🌐 Front-end
 </h4>
@@ -33,7 +38,7 @@
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=JoaoPassis06&hide_title=true&bg_color=0D1117&point=FFFFFF&days=20&area=true&area_color=70E6D8&line=70E6D8&hide_border=true&color=C9D1D9">
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=JoaoPassis06&hide_title=true&bg_color=ffffff&point=0D1117&days=20&area=true&area_color=008B8B&line=008B8B&hide_border=true&color=333333">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoPassis06&hide_title=true&bg_color=0D1117&point=FFFFFF&days=20&area=true&area_color=70E6D8&line=70E6D8&hide_border=true&color=C9D1D9" width="90%">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoPassis06&hide_title=true&bg_color=0D1117&point=FFFFFF&days=20&area=true&area_color=70E6D8&line=70E6D8&hide_border=true&color=C9D1D9" width="90%" margin-bottom="20px">
       </picture>
     </td>
 
