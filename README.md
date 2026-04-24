@@ -21,7 +21,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,arduino,figma,notion" height="38"/>
 
 ---
-<table border="0">
+<table border="0" align="center">
   <tr>
     <td align="center" width="50%">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=17&pause=0.8&color=ECB1F7&center=true&vCenter=true&width=350&lines=%E2%9A%A1+Meu+Fluxo+de+Commits" />
