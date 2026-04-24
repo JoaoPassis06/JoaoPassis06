@@ -42,7 +42,6 @@
       </picture>
       <br/>
       <p> &nbsp; </p>
-  <p> &nbsp; </p>
     </td>
 
   <td align="center" width="50%" valign="bottom">
