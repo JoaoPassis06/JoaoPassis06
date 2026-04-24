@@ -31,7 +31,7 @@
     <td align="center" width="50%">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=17&pause=0.8&color=ECB1F7&center=true&vCenter=true&width=350&lines=%F0%9F%92%BB+Linguagens+e+Tecnologias" />
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPassis06&layout=compact&bg_color=0D1117&title_color=70E6D8&text_color=C9D1D9&color_weight=70E6D8&hide_border=true&hide_title=true" width="100%" height="150px"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPassis06&layout=compact&bg_color=0D1117&title_color=70E6D8&text_color=C9D1D9&color_weight=70E6D8&hide_border=true&hide_title=true" width="300px" height="140px"/>
     </td>
   </tr>
 </table>
