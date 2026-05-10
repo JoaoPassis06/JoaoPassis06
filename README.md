@@ -1,7 +1,5 @@
 ![Header](./github-header-banner-final.png)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=JoaoPassis06&style=for-the-badge)](https://nice-readme.vercel.app/views-badge)
-
 ---
 
 <picture>
