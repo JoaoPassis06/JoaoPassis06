@@ -26,7 +26,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,arduino,figma,notion" height="38"/>
 
 ---
-<p align="center">
+<p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=17&pause=0.8&color=ECB1F7&center=true&vCenter=true&width=350&lines=%E2%9A%A1+Meu+Fluxo+de+Commits">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=17&pause=0.8&color=ECB1F7&center=true&vCenter=true&width=350&lines=%F0%9F%92%BB+Linguagens+e+Tecnologias">
 </p>
