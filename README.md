@@ -28,21 +28,16 @@
 ---
 <table border="0" align="center" width="100%">
   <tr>
-    <td align="center" width="50%" valign="bottom">
+    <td align="center" width="50%" valign="top">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=17&pause=0.8&color=ECB1F7&center=true&vCenter=true&width=350&lines=%E2%9A%A1+Meu+Fluxo+de+Commits" alt="Título Commits">
       <br/>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoPassis06&theme=github-compact&hide_border=true&area=true&bg_color=0D1117&color=C9D1D9&line=70E6D8&point=FFFFFF&area_color=70E6D8" width="100%" alt="Gráfico de Atividade">
-      <br/>
-      <p> &nbsp;</p>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoPassis06&bg_color=0D1117&color=C9D1D9&line=70E6D8&point=FFFFFF&area=true&area_color=70E6D8&hide_border=true&hide_title=true" width="100%">
     </td>
-    <td align="center" width="50%" valign="bottom">
+    <td align="center" width="50%" valign="top">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=17&pause=0.8&color=ECB1F7&center=true&vCenter=true&width=350&lines=%F0%9F%92%BB+Linguagens+e+Tecnologias" alt="Título Linguagens">
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPassis06&langs_count=6&layout=compact&bg_color=0D1117&title_color=70E6D8&text_color=C9D1D9&color_weight=70E6D8&hide_border=true&hide_title=true" width="95%" alt="Top Langs">
-      <br/>
-      <p> &nbsp;</p>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPassis06&langs_count=6&layout=compact&bg_color=0D1117&title_color=70E6D8&text_color=C9D1D9&hide_border=true" width="95%">
     </td>
-    
   </tr>
 </table>
 
