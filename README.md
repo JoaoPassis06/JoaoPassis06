@@ -31,7 +31,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=17&pause=0.8&color=ECB1F7&center=true&vCenter=true&width=350&lines=%F0%9F%92%BB+Linguagens+e+Tecnologias">
 </p>
 
-[![Tecnologias Utilizadas](https://helio-github-stats.vercel.app/api/top-langs?username=JoaoPassis06&layout=compact&stats_format=percentages&theme=dark&hide_border=true&border_radius=4.5&card_width=466&locale=pt-br&hide_title=true&size_weight=0.3)](https://nice-readme.vercel.app/top-langs)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoPassis06&bg_color=0D1117&color=C9D1D9&line=70E6D8&point=FFFFFF&area=true&area_color=70E6D8&hide_border=true&hide_title=true" width="48%">
+ <a href="https://nice-readme.vercel.app/top-langs" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api/top-langs?username=JoaoPassis06&layout=compact&stats_format=percentages&theme=dark&hide_border=true&border_radius=4.5&card_width=466&locale=pt-br&hide_title=true&size_weight=0.3" alt="Tecnologias Utilizadas" width="466" height="auto" loading="lazy" /></a>
+</p>
 
 <p><strong><font size="4">📫 Como me encontrar:</font></strong><p>
 
