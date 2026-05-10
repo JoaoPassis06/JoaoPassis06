@@ -28,20 +28,20 @@
 ---
 <table border="0" align="center" width="100%">
   <tr>
-    <td align="center" width="50%">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=17&pause=0.8&color=ECB1F7&center=true&vCenter=true&width=350&lines=%E2%9A%A1+Meu+Fluxo+de+Commits">
+    <td align="center" width="50%" style="min-width: 300px;">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=17&pause=0.8&color=ECB1F7&center=true&vCenter=true&width=280&lines=%E2%9A%A1+Meu+Fluxo+de+Commits" alt="Commits">
     </td>
-    <td align="center" width="50%">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=17&pause=0.8&color=ECB1F7&center=true&vCenter=true&width=350&lines=%F0%9F%92%BB+Linguagens+e+Tecnologias">
+    <td align="center" width="50%" style="min-width: 300px;">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=17&pause=0.8&color=ECB1F7&center=true&vCenter=true&width=280&lines=%F0%9F%92%BB+Linguagens+e+Tecnologias" alt="Techs">
     </td>
   </tr>
   <tr>
     <td align="center" valign="top">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoPassis06&bg_color=0D1117&color=C9D1D9&line=70E6D8&point=FFFFFF&area=true&area_color=70E6D8&hide_border=true&hide_title=true" width="95%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoPassis06&bg_color=0D1117&color=C9D1D9&line=70E6D8&point=FFFFFF&area=true&area_color=70E6D8&hide_border=true&hide_title=true" width="90%">
     </td>
     <td align="center" valign="top">
       <a href="https://nice-readme.vercel.app/top-langs" target="_blank">
-        <img src="https://helio-github-stats.vercel.app/api/top-langs?username=JoaoPassis06&layout=compact&stats_format=percentages&theme=dark&hide_border=true&border_radius=4.5&card_width=466&locale=pt-br&hide_title=true&size_weight=0.3" width="95%">
+        <img src="https://helio-github-stats.vercel.app/api/top-langs?username=JoaoPassis06&layout=compact&stats_format=percentages&theme=dark&hide_border=true&border_radius=4.5&card_width=400&locale=pt-br&hide_title=true&size_weight=0.5" width="90%">
       </a>
     </td>
   </tr>
